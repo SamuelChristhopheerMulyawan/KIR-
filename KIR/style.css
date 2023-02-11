@@ -1,0 +1,105 @@
+
+@media screen and (min-width: 800px) {
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    padding-top: 0;
+    background: darkcyan;
+}
+}
+.h{
+    width: auto;
+    height: 2cm;
+    align-items: center;
+    background: linear-gradient(to left, rgb(19, 149, 255), rgb(61, 15, 228), rgb(85, 11, 223));
+    position: relative;
+    color: white;
+    text-align: center;
+}
+
+.h h1{
+    padding: 0.5cm;
+}
+
+.sideleft{
+    float: left;
+    background: linear-gradient(to right, rgb(7, 189, 189), rgb(65, 20, 226), rgb(122, 12, 224));
+    width: 10cm;
+    height: 15.51cm;
+    padding: 5px;
+}
+
+.buta{
+    text-align: center;
+    color: white;
+}
+
+.butb{
+    text-align: center;
+    color: white;
+}
+
+.butc{
+    text-align: center;
+    color: white;
+}
+
+.butd{
+    text-align: center;
+    color: white;
+}
+
+.sideright{
+    float: right;
+    background: linear-gradient(to left, rgb(7, 189, 189), rgb(65, 20, 226), rgb(122, 12, 224));
+    width: 10cm;
+    height: 15.51cm;
+    padding: 5px;
+}
+
+.butta{
+    text-align: center;
+    color: white;
+}
+
+.buttb{
+    text-align: center;
+    color: white;
+}
+
+.temp{
+    width: auto;
+    background: linear-gradient(rgb(122, 12, 224), rgb(105, 10, 194), rgb(101, 11, 185));
+    padding: 2px;
+    color: white;
+    text-align: center;
+}
+
+.tempinfoa{
+    float: left;
+    background: linear-gradient(rgb(122, 12, 224), rgb(105, 10, 194), rgb(101, 11, 185));
+    width: 10cm;
+    height: 13.61cm;
+}
+
+.tempinfoa button{
+    width: 6cm;
+    height: 6cm;
+    
+}
+.container {
+    box-sizing: border-box;
+    border: 3px;
+    margin: 5px;
+}
+.down{
+    margin-top: 1cm;
+}
+
+.tempinfob{
+    text-align: center;
+    padding: 5cm;
+    font-size: 70px;
+    color: white;
+}
